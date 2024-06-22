@@ -8,3 +8,9 @@
 $ echo 'All in Africa rules.'
 All in Africa rules.
 ```
+
+## Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
